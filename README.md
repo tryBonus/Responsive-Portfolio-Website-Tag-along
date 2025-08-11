@@ -11,3 +11,7 @@ NEW THINGS LEARNED
 ####################################################
 
 The "flex-basis" property of the flexbox is good for assigning definite ratios to elements within the flexbox. This property also is measured in percentages. Hence, for effective usage of this property, it is advisable to keep the sum total of the percentages below 100. Also, the "justify-content" property is often used to define the horizontal spacing between items in the flexbox, and sometimes the positioning. This property has the possible values: "flex-start", "space-evenly", "space-between", "flex-end".
+
+
+
+yet to add the googlesheet database
